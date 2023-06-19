@@ -1,0 +1,513 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Beau Rivage', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.blok_1{
+    background-image: url("image/Rectangle11.jpg");
+    position: absolute;
+    width: 6541px;
+    height: 2356px;
+}
+
+.poick{
+    position: absolute;
+    width: 206px;
+    height: 83px;
+    text-decoration: none;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 83px;
+    top: 200px;
+    left: 1500px;
+    color: #000000;
+    font-family: Inter;
+}
+
+.class_2{
+  
+
+    position: absolute;
+    width: 3423px;
+    height: 207px;
+    top: 150px;
+    left: 1200px;
+    border: 3px solid #000000;
+    border-radius: 51px;
+}
+.lypa{
+    position: absolute;
+    width: 155px;
+    height: 132px;
+    left: 3200px;
+    top: 30px;
+}
+
+.blok_2{
+    position: absolute;
+width: 6532px;
+height: 315px;
+
+background: #0C41CB;
+border: 1px solid #000000;
+top: 2300px;
+
+}
+
+.podarki{
+    position: absolute;
+width: 590px;
+height: 155px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 128px;
+line-height: 155px;
+left: 200px;
+
+
+color: #FCFCFC;
+}
+
+.menu-list{
+    position: absolute;
+    width: 5300px;
+    height: 77px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    list-style: none;
+   
+    display: flex;
+    left: 2451px;
+    top: 70px;
+    
+  
+}
+
+.menu{
+    text-decoration: none;
+    margin-left: 50px;
+    color: #ffffff;
+    padding-left: 101px;
+}
+
+.blok_3{
+    position: absolute;
+    background-color: #ffffff;
+    height: 1302px;
+    width: 6530px;
+    top: 2610px;
+
+   
+}
+
+.image_1{
+    position: absolute;
+    width: 1467px;
+    height: 1186px;
+    top: 64px;
+    left: 529px;
+}
+
+.zagolovok_1{
+    position: absolute;
+    width: 2685px;
+    height: 391px;
+    top: 244px;
+    left: 2358px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 77px;
+    color: #32323A  
+}
+
+.zagolovok_2{
+    position: absolute;
+    width: 2685px;
+    height: 391px;
+    top: 471px;
+    left: 2358px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 77px;
+    color: #32323A  
+}
+
+.menu_1{
+    position: absolute;
+    width: 6532px;
+    height: 300px;
+    top: 3947px;
+    background: #0C41CB;
+    border: 1px solid #000000;
+}
+
+.zagolovok_menu_1{
+    position: absolute;
+    width: 406px;
+    height: 156px;
+  
+    left: 3062px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 155px;
+    
+    color: #FFFFFF;
+}
+
+.image_menu_1{
+    position: absolute;
+    width: 1060px;
+    height: 745px;
+    top: 4500px;
+    left: 363px;
+    border: 1px solid #0C41CB;    
+}
+
+.image_menu_2{
+    position: absolute;
+    width: 1060px;
+    height: 745px;
+    top: 4500px;
+    left: 1527px;
+    border: 1px solid #0C41CB;    
+}
+
+.image_menu_3{
+    position: absolute;
+    width: 1060px;
+    height: 745px;
+    top: 4500px;
+    left: 2690px;
+    border: 1px solid #0C41CB;    
+}
+
+.image_menu_4{
+    position: absolute;
+    width: 1060px;
+    height: 745px;
+    top: 4500px;
+    left: 3851px;
+    border: 1px solid #0C41CB;    
+}
+
+.image_menu_5{
+    position: absolute;
+    width: 1060px;
+    height: 745px;
+    top: 4500px;
+    left: 5015px;
+    border: 1px solid #0C41CB;    
+}
+
+.gatalok_1{
+    position: absolute;
+    width: 6532px;
+    height: 300px;
+    top: 5500px;
+    background: #0C41CB;
+    border: 1px solid #000000;
+}
+
+.zagolovok_gatalok_1{
+    position: absolute;
+    width: 700px;
+    height: 156px;
+    
+    left: 2975px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 155px;
+    
+    color: #FFFFFF;
+}
+
+.zagolovok_milo{
+    position: absolute;
+    width: 1500px;
+    height: 156px;
+    top: 5900px;
+    left: 2575px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 155px;
+    
+    color: black
+}
+
+.image_gatalok_1{
+    position: absolute;
+width: 1453px;
+height: 816px;
+top: 6500px;
+left: 902px;
+border: 1px solid #000000
+}
+
+.img_gatalok_1{
+    position: absolute;
+width: 1453px;
+height: 675px;
+
+}
+
+.zagolovok_gatalok_2{
+    position: absolute;
+    width: 318px;
+    height: 72px;
+    top: 680px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    
+    color: #000000  
+}
+
+.icon_1_gatalok_1{
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    top: 710px;
+    left: 1157px;
+    
+}
+
+.icon_2_gatalok_1{
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    top: 710px;
+    left: 1289px;
+    
+}
+
+.image_gatalok_2{
+    position: absolute;
+width: 1453px;
+height: 816px;
+top: 6500px;
+left: 2565px;
+border: 1px solid #000000
+}
+
+.image_gatalok_3{
+    position: absolute;
+width: 1453px;
+height: 816px;
+top: 6500px;
+left: 4239px;
+border: 1px solid #000000
+}
+
+.zagolovok_sladki{
+    position: absolute;
+    width: 1500px;
+    height: 156px;
+    top: 7500px;
+    left: 2575px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 155px;
+    
+    color: black;
+}
+
+.image_gatalok_4{
+    position: absolute;
+width: 1453px;
+height: 816px;
+top: 8000px;
+left: 902px;
+border: 1px solid #000000;
+}
+
+.image_gatalok_5{
+    position: absolute;
+    width: 1453px;
+    height: 816px;
+    top: 8000px;
+    left: 2565px;
+    border: 1px solid #000000
+}
+
+.image_gatalok_6{
+    position: absolute;
+    width: 1453px;
+    height: 816px;
+    top: 8000px;
+    left: 4239px;
+    border: 1px solid #000000
+    }
+
+
+.zagolovok_flowers{
+    position: absolute;
+    width: 2000px;
+    height: 156px;
+    top: 9100px;
+    left: 2575px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 155px;
+    
+    color: black;
+}
+
+.image_gatalok_7{
+    position: absolute;
+width: 1453px;
+height: 816px;
+top: 9700px;
+left: 902px;
+border: 1px solid #000000;
+}
+
+.image_gatalok_8{
+    position: absolute;
+    width: 1453px;
+    height: 816px;
+    top: 9700px;
+    left: 2565px;
+    border: 1px solid #000000
+}
+
+.image_gatalok_9{
+    position: absolute;
+    width: 1453px;
+    height: 816px;
+    top: 9700px;
+    left: 4239px;
+    border: 1px solid #000000
+    }
+
+    .footer{
+        position: absolute;
+        width: 6532px;
+        height: 700px;
+        top: 10700px;
+        background:blue;
+    }
+    
+    .footer_zagolovok{
+        position: absolute;
+        width: 169px;
+        height: 45px;
+        top: 52px;
+        left: 135px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 100px;
+        line-height: 45px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    
+    .footer_image_1{
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        top: 250px;
+        left: 135px;
+    }
+    
+    .footer_1{
+        position: absolute;
+        width: 730px;
+        height: 33px;
+        top: 265px;
+        left: 150px;
+        text-decoration: none;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 30px;
+        text-align: center;
+        color: #FFFFFF;
+        
+    }
+    
+   
+    
+    .footer_image_2{
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        top: 350px;
+        left: 135px;
+    }
+    
+    .footer_2{
+        position: absolute;
+        width: 195px;
+        height: 30px;
+        top: 365px;
+        left: 250px;
+        text-decoration: none;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 30px;
+        text-align: center;
+        color: #FFFFFF;
+        
+    }
+    
+  
+    
+    .footer_image_3{
+        position: absolute;
+        width: 112px;
+        height: 105px;
+        top: 450px;
+        left: 100px;  
+    }
+    
+    .footer_3{
+        position: absolute;
+        width: 1500px;
+        height: 30px;
+        top: 480px;
+        left: 130px;
+        text-decoration: none;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 30px;
+        text-align: center;
+        color: #FFFFFF;
+        
+    }
+    
+
